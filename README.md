@@ -1,0 +1,2 @@
+# hash
+hash stanov skript
